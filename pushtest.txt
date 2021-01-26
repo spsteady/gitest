@@ -1,0 +1,3 @@
+This is a sample text file.
+It's was created using the terminal editor.
+Testing for push to gitest repository on github.com.
